@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+html{
+  background-color: lightblue;
+  color: black;
+}
+
+  #box {
+  background-color: #a7a7cd;
+}
+
+.headingClass{
+  color: brown;
+}
+
+button{
+  background-color: lightcyan;
+  color: #8c00ff;
+}
